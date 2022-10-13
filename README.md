@@ -1,1 +1,1 @@
-Database akupintar ada di halaman utama
+Database akupintar.sql ada di halaman utama
